@@ -9,6 +9,6 @@ tensorflow  1.x
 Run<br /> 
 ---
 Training：python train.py <br /> 
-Write poems: python poem_server<br /> 
+Write poems: python server<br /> 
 
 
